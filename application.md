@@ -1,7 +1,7 @@
 # 28 Deadlines Later #
 # Заявка на IT-Проект
 
-### Группа: 10 - МИ - 1
+### Группа: 10 - МИ - 2
 ### Электронная почта: zenin.tema@mail.ru
 ### VK: vk.com/coralfox
 
