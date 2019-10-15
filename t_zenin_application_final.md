@@ -1,6 +1,7 @@
 # Drought #
 # Финальная заявка на IT-Проект
 
+
 ### Группа: 10 - МИ - 2
 ### Электронная почта: zenin.tema@mail.ru
 ### VK: vk.com/coralfox
